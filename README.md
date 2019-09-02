@@ -22,6 +22,6 @@ Basically, he/she is going to gain my experience through learning on his own. So
 
 #### Tech Stack
 
- - [Front End - React]()
- - [Back End - Node.js / MongoDB]()
- - [Full Stack - Node & React]()
+ - [Front End - React](https://github.com/ganeshmani/solve_scenarios/blob/master/TechStack/Front%20End%20-%20React.md)
+ - [Back End - Node.js / MongoDB](https://github.com/ganeshmani/solve_scenarios/blob/master/TechStack/Back%20End%20-%20Nodejs.md)
+ - [Full Stack - Node & React](https://github.com/ganeshmani/solve_scenarios/blob/master/TechStack/Full%20Stack%20-%20Node%20%26%20React.md)
