@@ -1,0 +1,20 @@
+## Scenario
+
+you are getting the Application design from the designer. In that design, your Application has File upload functionality showing the uploading progress bar.
+
+## Reference
+
+<!-- Upload_Image.png comes here -->
+
+
+you need to show the thumbnail for the uploading image.
+
+## Problem
+
+Develop a service in the backend to generate thumbnail for the uploading file and store the image in Cloud and save the URL in the Database.
+
+## Addition Challenge
+
+Generate thumbnail in 3 different sizes for the same image
+
+Thumbnail Process should run in different threads.
