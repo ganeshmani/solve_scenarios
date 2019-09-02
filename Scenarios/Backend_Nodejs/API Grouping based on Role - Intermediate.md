@@ -3,6 +3,7 @@
 Client wants to develop an Enterprise Application where Users will have different Roles. Let's take Asana as an Example.
 
 <!-- roleAPI.png comes here -->
+![Reference](https://github.com/ganeshmani/solve_scenarios/blob/master/Image_References/roleAPI.png)
 
 | Name                | Organisation CRUD | Project CRUD  |
 |    :---:            |     :---:         |    :---:      |

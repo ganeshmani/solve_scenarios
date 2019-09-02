@@ -5,7 +5,7 @@ you are getting the Application design from the designer. In that design, your A
 ## Reference
 
 <!-- Upload_Image.png comes here -->
-
+![Reference](https://github.com/ganeshmani/solve_scenarios/blob/master/Image_References/Upload_Image.png)
 
 you need to show the thumbnail for the uploading image.
 
