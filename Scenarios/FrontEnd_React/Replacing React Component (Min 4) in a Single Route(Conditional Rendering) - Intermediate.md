@@ -7,5 +7,5 @@ Let's say that you are developing an application with login and register functio
 
 ## Problem
 
- create React Components for above work Flow with a single Route
+ create React Components for above work Flow with a single Route(For Ex: "/auth")
 
