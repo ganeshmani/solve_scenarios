@@ -1,8 +1,6 @@
 
 ### Beginner
 
-
-
 ### Intermediate
 
 [Document Management System - Node/React - Intermediate](https://github.com/ganeshmani/solve_scenarios/blob/master/Scenarios/Full%20Stack%20-%20Node%20%26%20React/Document%20Management%20System%20-%20Intermediate.md)
