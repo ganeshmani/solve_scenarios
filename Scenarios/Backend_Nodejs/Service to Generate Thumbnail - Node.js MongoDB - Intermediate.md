@@ -1,6 +1,6 @@
 ## Scenario
 
-you are getting the Application design from the designer. In that design, your Application has File upload functionality showing the uploading progress bar.
+you are getting the Application design from the designer. In that design, your Application has File uploading functionality showing the uploading progress bar.
 
 ## Reference
 
