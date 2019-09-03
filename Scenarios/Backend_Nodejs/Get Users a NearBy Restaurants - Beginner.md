@@ -1,6 +1,6 @@
 ## Scenario
 
-you are developing a product. let's say it is a Restaurant App where user can search Restaurants based on location. A Simple scenario that occurs in several business application
+you are developing a product. let's say it is a Restaurant Application where user can search Restaurants based on location. A Simple scenario that occurs in several business applications
 
 ## Problem
 
