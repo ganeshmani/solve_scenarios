@@ -1,6 +1,6 @@
 ## Scenario
 
-To explain it simple, Take an example of eBay,OLX and Quickr. when an user uploads the image, all the images will be watermarked with their brand name for copyrights. 
+To explain it simple way, Take an example of eBay,OLX and Quickr. when an user uploads the image, all the images will be watermarked with their brand name for copyrights. 
 
 ## Problem
 
