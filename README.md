@@ -27,7 +27,7 @@ Basically, he/she is going to gain my experience through learning on his own. So
  - [Full Stack - Node & React](#full-stack-node-and-react)
 
 
- ## `Front End - React`
+ ## `Front End-React`
 
  ### Beginner
 
@@ -43,7 +43,7 @@ Basically, he/she is going to gain my experience through learning on his own. So
 
 [Replacing React Component (Min 4) in a Single Route(Conditional Rendering) - Intermediate](https://github.com/ganeshmani/solve_scenarios/blob/master/Scenarios/FrontEnd_React/Replacing%20React%20Component%20(Min%204)%20in%20a%20Single%20Route(Conditional%20Rendering)%20-%20Intermediate.md)
 
-## `Back End - Node.js and MongoDB`
+## `Back End-Node.js and MongoDB`
 
 ### Beginner
 
@@ -65,7 +65,7 @@ Basically, he/she is going to gain my experience through learning on his own. So
 
 [Launch your own npm package - Node.js - Advanced](https://github.com/ganeshmani/solve_scenarios/blob/master/Scenarios/Backend_Nodejs/Launch%20your%20own%20npm%20package%20-%20Node.js%20-%20Advanced.md)
 
-## Full Stack - Node and React
+## Full Stack-Node and React
 
 ### Intermediate
 
