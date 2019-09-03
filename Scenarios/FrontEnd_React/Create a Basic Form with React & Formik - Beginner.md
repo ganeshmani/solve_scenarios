@@ -9,3 +9,9 @@ Consider a Situation where you need to develop a Front End for an application wh
 ## Problem
 
 Develop a Login and Register Form using Formik and Display the Data in Console 
+
+## Reference 
+
+[React + Formik - Form Validation Example](https://jasonwatmore.com/post/2019/04/10/react-formik-form-validation-example)
+
+[Formik For React: Introduction to Form Management Done Right](https://medium.com/@rossbulat/formik-for-react-introduction-to-form-management-done-right-971889b40f9f)
