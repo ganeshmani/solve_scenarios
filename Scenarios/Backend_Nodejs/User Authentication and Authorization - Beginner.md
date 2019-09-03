@@ -7,5 +7,5 @@ Most of the time , when developing an application, you need to build API's for l
 
 ## Problem
 
-Develop a Logic to Authenticate and Autheorize the Request based on the provided information
+Develop a Logic to Authenticate and Autheorize the Request based on the provided information(Example : JWT Token)
 
