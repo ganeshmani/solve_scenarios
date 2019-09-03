@@ -8,7 +8,7 @@ Also, User can Search the Restaurant using Location.
 
 ## Problem
 
-Develop an application for the above technical scenario. you can use any tech stack to develop this application. 
+Develop an application for the above technical scenario. 
 
 ## Reference
 
