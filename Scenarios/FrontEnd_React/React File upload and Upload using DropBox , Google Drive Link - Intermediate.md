@@ -2,7 +2,7 @@
 
 Now, you know how to build  Forms in Front End(React).  Let's add some more into Forms now as per the business requirement.
 
-Client want to upload multiple files in React with uploading Progress bar for each files.
+Client wants to upload multiple files in React with Progress bar for each files.
 
 ## Reference
 
