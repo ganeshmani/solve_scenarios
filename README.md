@@ -4,7 +4,7 @@
 
 Whenever I want to learn new technology, I can able to find a lot of resources to learn the syntax of a particular programming language/technology.
 
-But, I couldn’t able to find resources which gives me a production level problem scenario’s, from which I can able to learn the technology.
+But, I couldn’t able to find resources which gives me a production level problem scenarios, from which I can able to learn the technology.
 
 so, I thought why don’t I create a one which will be helpful for developers like me to learn a programming language or technology by practicing a problem scenario.
 
