@@ -90,6 +90,9 @@ Basically, he/she is going to gain my experience through learning on his own. So
 
 Contributions are very welcome: [Submit](https://github.com/ganeshmani/solve_scenarios/blob/master/Contributing.md)
 
+
+### License
+
 MIT License
 
 Copyright (c) [2019] [ganeshmani]
