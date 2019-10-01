@@ -2,13 +2,13 @@
 
 ## What is Scenario Based Learning
 
-Whenever I want to learn new technology, I can able to find a lot of resources to learn the syntax of a particular programming language/technology.
+When I want to learn a new technology, I am able to find a lot of resources to learn the syntax of a particular programming language/technology.
 
-But, I couldn’t able to find resources which gives me a production level problem scenarios, from which I can able to learn the technology.
+But, I can not find resources which give me a production level problem scenario, from which I can able to learn the technology.
 
-so, I thought why don’t I create a one which will be helpful for developers like me to learn a programming language or technology by practicing a problem scenario.
+So, I thought, why don’t I create a one which will be helpful for developers like me to learn a programming language or technology by practicing a problem scenario.
 
-## why it is important
+## Why it is important
 
 Every time, we learn something. we go and find something to implement in it to get a good grasp of it. From, a beginner perspective. it is great.
 
