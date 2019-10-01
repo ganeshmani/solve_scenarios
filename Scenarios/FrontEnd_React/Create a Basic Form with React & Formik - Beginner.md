@@ -1,14 +1,14 @@
 ## Instructions
 
-Every Statement contains a technical problem scenario which solves a business solution. Practicing this scenario helps you to understand the Use Case of different problem statements.
+Every statement contains a technical problem scenario which solves a business solution. Practicing this scenario helps you understand the use case of different problem statements.
 
 ## Scenario
 
-Consider a Situation where you need to develop a Front End for an application which has Authentication workflow(Login and Register). your Team Leader asks you to develop a Form for Login and Register. Also, he suggest you to develop the Form using Formik to save some development time.
+Consider a situation where you need to develop a front end for an application which has an authentication workflow(login and register). Your team leader asks you to develop a form for login and register. Also, he suggests you develop the form using Formik to save some development time.
 
 ## Problem
 
-Develop a Login and Register Form using Formik and Display the Data in Console 
+Develop a login and register form using Formik and display the data in the console. 
 
 ## Reference 
 
