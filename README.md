@@ -90,6 +90,10 @@ Basically, he/she is going to gain my experience through learning on his own. So
 
 Contributions are very welcome: [Submit](https://github.com/ganeshmani/solve_scenarios/blob/master/Contributing.md)
 
+### Code of Conduct
+
+ [CODE_OD_CONDUCT](./CODE_OF_CONDUCT.md)
+
 
 ### License
 
